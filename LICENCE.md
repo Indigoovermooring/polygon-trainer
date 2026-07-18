@@ -1,3 +1,6 @@
+<img width="480" height="360" alt="hqdefault" src="https://github.com/user-attachments/assets/0d15ac6b-a709-43e9-81a6-1857247b23fd" />
+
+
 # Polygon Trainer / Mod Menu — Tool for PC
 
 Memory-editing utility for **Polygon (Polygon: Battle Royale)**. Provides client-side modifications for educational purposes and local testing. Compatible with Windows 10/11.
